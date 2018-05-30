@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2852479086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 616aa8d17abc2d89d0ed8193d0e63bbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/VittariaScene.unity
+Dependencies:
+- C:/Kassimnyer Folder/00. Testing Ground Folder/Test Asset Bundle/AssetBundles/StandaloneWindows/gymduplicates

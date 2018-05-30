@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1591723309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b542f617c246752a37f63b2dec1afd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/GymScene.unity
+Dependencies:
+- C:/Kassimnyer Folder/00. Testing Ground Folder/Test Asset Bundle/AssetBundles/StandaloneWindows/gym_92441poly

@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 535453181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93d5779eeb1d24357e02f55c5568b671
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc983a3149e5fb03ce027e70c7a1a559
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/3D Assets/Vittaria interior complete.fbm/wood texture1.jpg
+- Assets/3D Assets/Materials/GRCYDISP.mat
+- Assets/3D Assets/gym_103167poly.fbm/shower head.png
+- Assets/3D Assets/Materials/02 - Default.mat
+- Assets/3D Assets/Vittaria interior complete.fbm/aircond.jpg
+- Assets/3D Assets/gym_103167poly.fbm/white tile pool.jpg
+- Assets/3D Assets/Materials/aircond.mat
+- Assets/3D Assets/Materials/81P3vFqAY+L.mat
+- Assets/3D Assets/Materials/yoga mat texture1.mat
+- Assets/3D Assets/Materials/kitchen wall.mat
+- Assets/3D Assets/Materials/Steel Bronzato.mat
+- Assets/3D Assets/gym_103167poly.fbm/feabca1d8011aaa619e8b31e9e8b3917.jpg
+- Assets/3D Assets/Materials/21 - Default.mat
+- Assets/3D Assets/Materials/red.mat
+- Assets/3D Assets/gym_103167poly.fbm/EDW_5882 seamless.png
+- Assets/3D Assets/gym_103167poly.fbm/yoga mat texture.jpg
+- Assets/3D Assets/Materials/eb_hipster_bench_01_c.mat
+- Assets/3D Assets/Materials/glass door and wall.mat
+- Assets/3D Assets/Materials/pool tile.mat
+- Assets/3D Assets/Materials/steel.mat
+- Assets/3D Assets/Materials/Default.mat
+- Assets/3D Assets/Materials/tredmill screen1.mat
+- Assets/3D Assets/Materials/Matal Black Opac.mat
+- Assets/3D Assets/gym_103167poly.fbm/pool tile.jpg
+- Assets/3D Assets/Materials/No Name.mat
+- Assets/3D Assets/Materials/14 - Default.mat
+- Assets/3D Assets/Materials/front-view-stack-grey-metal-school-lockers-combination-locks-doors-shut-isolated-background-30313425.mat
+- Assets/3D Assets/Materials/0d061c5690fc4b96532c67000706b2fe.mat
+- Assets/3D Assets/gym_103167poly.fbm/shouldermensfi-1_large.jpg
+- Assets/3D Assets/Materials/11 - Default.mat
+- Assets/3D Assets/gym_103167poly.fbm/81UMTccVjXL._SY355_.jpg
+- Assets/3D Assets/Materials/08 - Default.mat
+- Assets/3D Assets/Materials/ALLENS.mat
+- Assets/3D Assets/Materials/metal texture.mat
+- Assets/3D Assets/Materials/yoga mat texture.mat
+- Assets/3D Assets/Materials/15 - Default.mat
+- Assets/3D Assets/gym_103167poly.fbm/floor.jpg
+- Assets/3D Assets/gym_103167poly.fbm/red.png
+- Assets/3D Assets/gym_103167poly.fbm/triceps05fi-1_large.jpg
+- Assets/3D Assets/gym_103167poly.fbm/DSC_4355 seamless.png
+- Assets/3D Assets/Materials/locker.mat
+- 'Assets/3D Assets/Materials/Material #2100441998.mat'
+- Assets/3D Assets/gym_103167poly.fbm/locker.png
+- Assets/3D Assets/Materials/07 - Default.mat
+- Assets/3D Assets/gym_103167poly.fbm/rubber texture.jpg
+- Assets/3D Assets/Materials/triceps05fi-1_large.mat
+- 'Assets/3D Assets/Materials/Material #2100443005.mat'
+- Assets/3D Assets/Materials/shower head.mat
+- Assets/3D Assets/Materials/LOGO_YEL.mat
+- Assets/3D Assets/Materials/floor.mat
+- Assets/3D Assets/Materials/22 - Default.mat
+- Assets/3D Assets/gym_103167poly.fbm/81P3vFqAY+L.jpg
+- Assets/3D Assets/Materials/wood texture1.mat
+- Assets/3D Assets/Materials/Yellow.mat
+- Assets/3D Assets/Materials/feabca1d8011aaa619e8b31e9e8b3917.mat
+- Assets/3D Assets/gym_103167poly.fbm/0d061c5690fc4b96532c67000706b2fe.jpg
+- Assets/3D Assets/Vittaria interior complete.fbm/kitchen wall.jpg
+- Assets/3D Assets/gym_103167poly.fbm/brown tile pool.jpg
+- Assets/3D Assets/gym_103167poly.fbm/front-view-stack-grey-metal-school-lockers-combination-locks-doors-shut-isolated-background-30313425.jpg
+- Assets/3D Assets/Materials/EDW_5882 seamless.mat
+- Assets/3D Assets/Materials/Steel STOP.mat
+- Assets/3D Assets/Materials/Met Number.mat
+- Assets/3D Assets/Materials/10 - Default.mat
+- Assets/3D Assets/Materials/1METAL.mat
+- Assets/3D Assets/Vittaria interior complete.fbm/steel.jpg
+- Assets/3D Assets/Materials/VOLANO.mat
+- 'Assets/3D Assets/Materials/Material #2100443004.mat'
+- Assets/3D Assets/Materials/Matal Black Luci.mat
+- Assets/3D Assets/Vittaria interior complete.fbm/wall white.png
+- Assets/3D Assets/Materials/rubber texture.mat
+- Assets/3D Assets/Materials/brown tile pool.mat
+- Assets/3D Assets/Materials/Matal Black Rubb.mat
+- Assets/3D Assets/gym_103167poly.fbm/yoga mat texture1.jpg
+- Assets/3D Assets/Materials/wall white.mat
+- Assets/3D Assets/Materials/81UMTccVjXL._SY355_.mat
+- Assets/3D Assets/gym_103167poly.fbm/metal texture.jpg
+- Assets/3D Assets/Materials/shouldermensfi-1_large.mat
+- Assets/3D Assets/gym_103167poly.fbm/tredmill screen1.png
+- Assets/3D Assets/Materials/DSC_4355 seamless.mat
+- Assets/3D Assets/Materials/white tile pool.mat
+Dependencies: []

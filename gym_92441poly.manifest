@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3772847257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a24f0a5c119d7be0ac5e1ff63a0159c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d692f5671ffd77119b92e90352f776e0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/3D Assets/gym_92441poly.FBX
+Dependencies:
+- C:/Kassimnyer Folder/00. Testing Ground Folder/Test Asset Bundle/AssetBundles/StandaloneWindows/gymduplicates
